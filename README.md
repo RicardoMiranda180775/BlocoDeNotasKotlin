@@ -18,7 +18,6 @@ App foi implementado com MVVM e Clean architecture utilizando :
 - Room database
 - ViewModel
 - AppCompat
-- Retrofit
 - Dagger 2
 - Coroutines
 
