@@ -3,12 +3,11 @@
 Bloco de Notas desenvolvido em Kotlin.
 
 ## Design Patterns 
-App foi implementado com MVVM e Clean architecture usando princios de SOLID.
-
-
-## Tecnologias
- - Kotlin
- - Android Jetpack
+App foi implementado com MVVM e Clean architecture utilizando :
+- Principios de SOLID
+- Components and layers
+- Jetpack navigation
+- Dependency Injection
 
 ## Principais Libs
 - Data Binding
@@ -16,7 +15,7 @@ App foi implementado com MVVM e Clean architecture usando princios de SOLID.
 - LiveData
 - Navigaton
 - Paging
-- Room
+- Room database
 - ViewModel
 - AppCompat
 - Retrofit
